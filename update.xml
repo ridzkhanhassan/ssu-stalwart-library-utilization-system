@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
   <version>1.0.0.1</version>
-  <url>https://raw.githubusercontent.com/ridzhassan/Library-Utilization-System/main/setup.exe</url>
-  <changelog>https://github.com/ridzhassan/Library-Utilization-System/releases</changelog>
+  <url>https://github.com/ridzhassan/stalwart-library-utilization-system/releases/download/v1.0.0.1/setup.exe</url>
+  <changelog>https://github.com/ridzhassan/stalwart-library-utilization-system/releases</changelog>
   <mandatory>false</mandatory>
 </item>
