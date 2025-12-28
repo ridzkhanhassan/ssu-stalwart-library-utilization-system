@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\lus\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|solutionrelative:lus\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|c:\\users\\ridzh\\onedrive\\desktop\\slus application\\lus\\lus\\frm_loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|solutionrelative:lus\\frm_loading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\lus\\frm_lus_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|solutionrelative:lus\\frm_lus_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\lus\\frm_lus_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|solutionrelative:lus\\frm_lus_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|c:\\users\\ridzh\\onedrive\\desktop\\slus application\\lus\\lus\\frm_lus_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|solutionrelative:lus\\frm_lus_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\lus\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|solutionrelative:lus\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\lus\\daily.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|solutionrelative:lus\\daily.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\lus\\frm_lus_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\lus\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|solutionrelative:lus\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\lus\\daily.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
-      "RelativeMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|solutionrelative:lus\\daily.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72055AFB-19B0-435A-869E-6BB4E6D00FBE}|LUS\\LUS.csproj|C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\lus\\frm_lus_report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,57 +54,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Frm_Loading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Frm_Loading.cs",
+              "RelativeDocumentMoniker": "LUS\\Frm_Loading.cs",
+              "ToolTip": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Frm_Loading.cs [Design]",
+              "RelativeToolTip": "LUS\\Frm_Loading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T09:58:30.866Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Frm_LUS_Main.cs",
               "DocumentMoniker": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Frm_LUS_Main.cs",
               "RelativeDocumentMoniker": "LUS\\Frm_LUS_Main.cs",
               "ToolTip": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Frm_LUS_Main.cs",
               "RelativeToolTip": "LUS\\Frm_LUS_Main.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAIwDoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB8BAAAAAAAAAAAAADsBAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T15:14:54.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-28T09:44:03.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Frm_LUS_Main.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Frm_LUS_Main.cs",
               "RelativeDocumentMoniker": "LUS\\Frm_LUS_Main.cs",
               "ToolTip": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Frm_LUS_Main.cs [Design]",
               "RelativeToolTip": "LUS\\Frm_LUS_Main.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T15:09:41.611Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-12-26T15:09:41.611Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Properties\\AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "LUS\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Properties\\AssemblyInfo.cs",
-              "RelativeToolTip": "LUS\\Properties\\AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T15:02:18.483Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Connection.cs",
               "DocumentMoniker": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Connection.cs",
               "RelativeDocumentMoniker": "LUS\\Connection.cs",
               "ToolTip": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Connection.cs",
               "RelativeToolTip": "LUS\\Connection.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-26T14:20:11.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Frm_LUS_Report.cs",
               "DocumentMoniker": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Frm_LUS_Report.cs",
               "RelativeDocumentMoniker": "LUS\\Frm_LUS_Report.cs",
@@ -112,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Frm_LUS_Report.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Frm_LUS_Report.cs",
               "RelativeDocumentMoniker": "LUS\\Frm_LUS_Report.cs",
@@ -123,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Library.xsd",
               "DocumentMoniker": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Library.xsd",
               "RelativeDocumentMoniker": "LUS\\Library.xsd",
@@ -134,14 +136,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Daily.rdlc [Design]",
               "DocumentMoniker": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Daily.rdlc",
               "RelativeDocumentMoniker": "LUS\\Daily.rdlc",
-              "ToolTip": "C:\\Users\\ridzh\\OneDrive\\Desktop\\LUS Application\\LUS\\LUS\\Daily.rdlc [Design]",
-              "RelativeToolTip": "..\\..\\LUS Application\\LUS\\LUS\\Daily.rdlc [Design]",
+              "ToolTip": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Daily.rdlc [Design]",
+              "RelativeToolTip": "LUS\\Daily.rdlc [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
               "WhenOpened": "2025-12-26T13:54:44.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "LUS\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\ridzh\\OneDrive\\Desktop\\SLUS Application\\LUS\\LUS\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "LUS\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T15:02:18.483Z"
             }
           ]
         }

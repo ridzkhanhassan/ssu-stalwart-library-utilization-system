@@ -280,3 +280,4 @@ C:\Users\ridzh\OneDrive\Desktop\SLUS Application\LUS\LUS\bin\Debug\Stalwart Libr
 C:\Users\ridzh\OneDrive\Desktop\SLUS Application\LUS\LUS\bin\Debug\Stalwart Library Utilization System.application
 C:\Users\ridzh\OneDrive\Desktop\SLUS Application\LUS\LUS\obj\Debug\Stalwart Library Utilization System.exe.manifest
 C:\Users\ridzh\OneDrive\Desktop\SLUS Application\LUS\LUS\obj\Debug\Stalwart Library Utilization System.application
+C:\Users\ridzh\OneDrive\Desktop\SLUS Application\LUS\LUS\obj\Debug\LUS.Frm_Loading.resources

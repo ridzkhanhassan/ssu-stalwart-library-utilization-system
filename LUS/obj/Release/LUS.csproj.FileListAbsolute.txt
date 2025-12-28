@@ -151,3 +151,4 @@ C:\Users\ridzh\OneDrive\Desktop\SLUS Application\LUS\LUS\obj\Release\Stalwart Li
 C:\Users\ridzh\OneDrive\Desktop\SLUS Application\LUS\LUS\obj\Release\LUS.csproj.Up2Date
 C:\Users\ridzh\OneDrive\Desktop\SLUS Application\LUS\LUS\obj\Release\Stalwart Library Utilization System.exe
 C:\Users\ridzh\OneDrive\Desktop\SLUS Application\LUS\LUS\obj\Release\Stalwart Library Utilization System.pdb
+C:\Users\ridzh\OneDrive\Desktop\SLUS Application\LUS\LUS\obj\Release\LUS.Frm_Loading.resources

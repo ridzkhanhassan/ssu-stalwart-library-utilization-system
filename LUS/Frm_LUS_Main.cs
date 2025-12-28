@@ -17,6 +17,9 @@ namespace LUS
         // 🔥 Track last scanned ID
         private string lastScannedID = "";
 
+        // Loading form for update check
+        private Frm_Loading loadingForm;
+
         public Frm_LUS_Main()
         {
             InitializeComponent();
@@ -291,7 +294,68 @@ namespace LUS
 
         private void updateToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            AutoUpdater.Start("https://raw.githubusercontent.com/ridzhassan/Library-Utilization-System/main/update.xml");
+            try
+            {
+                // Show loading form
+                loadingForm = new Frm_Loading("Checking for updates...");
+                loadingForm.Show(this);
+                loadingForm.Refresh();
+                
+                // Configure AutoUpdater
+                AutoUpdater.ReportErrors = true;
+                AutoUpdater.SetOwner(this);
+                
+                // Remove existing handler first to avoid duplicate subscriptions
+                AutoUpdater.CheckForUpdateEvent -= AutoUpdater_CheckForUpdateEvent;
+                // Add event handler to catch update check results
+                AutoUpdater.CheckForUpdateEvent += AutoUpdater_CheckForUpdateEvent;
+                
+                // Start checking for updates
+                AutoUpdater.Start("https://raw.githubusercontent.com/ridzhassan/stalwart-library-utilization-system/main/update.xml");
+            }
+            catch (Exception ex)
+            {
+                // Close loading form if error occurs
+                if (loadingForm != null && !loadingForm.IsDisposed)
+                {
+                    loadingForm.Close();
+                    loadingForm = null;
+                }
+                
+                MessageBox.Show($"Error checking for updates: {ex.Message}", 
+                    "Update Check Failed", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+        private void AutoUpdater_CheckForUpdateEvent(UpdateInfoEventArgs args)
+        {
+            this.Invoke(new Action(() =>
+            {
+                // Close loading form
+                if (loadingForm != null && !loadingForm.IsDisposed)
+                {
+                    loadingForm.Close();
+                    loadingForm = null;
+                }
+
+                if (args.Error != null)
+                {
+                    // Show error message
+                    MessageBox.Show($"Error checking for updates: {args.Error.Message}", 
+                        "Update Check Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+                else if (args.IsUpdateAvailable)
+                {
+                    // Update is available - Show the default AutoUpdater update form
+                    AutoUpdater.ShowUpdateForm(args);
+                }
+                else
+                {
+                    // No update available
+                    MessageBox.Show($"You are using the latest version.\n\nVersion: {args.InstalledVersion}", 
+                        "No Update Available", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                }
+            }));
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
