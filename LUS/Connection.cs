@@ -12,8 +12,6 @@ namespace LUS
     {
         public static MySqlConnection GetConnection()
         {
-            string connString = "Server=192.168.10.26;Database=library_utilization_database;Uid=root;Pwd=sulu2022//;";
-            //string connString = "Server=localhost;Database=library_utilization_database;Uid=root;Pwd=sulu2022//;";
 
             return new MySqlConnection(connString);
         }
